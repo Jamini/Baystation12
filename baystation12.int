@@ -1,11 +1,11 @@
 // BEGIN_INTERNALS
 /*
 MAP_ICON_TYPE: 0
-WINDOW: maps\exodus-1.dmm;maps\buildstation-1.dmm;maps\exodus-4.dmm;maps\exodus-3.dmm;maps\exodus-5.dmm;maps\buildstation-2.dmm;maps\buildstation-3.dmm
+WINDOW: maps\exodus-1.dmm;code\modules\mob\living\simple_animal\hostile\bear.dm;code\modules\mob\new_player\new_player.dm;code\modules\shuttles\shuttle_emergency.dm;code\controllers\emergency_shuttle_controller.dm;code\controllers\voting.dm;code\game\gamemodes\gameticker.dm;baystation12.dme;code\controllers\autotransfer.dm;code\controllers\configuration.dm
 LAST_COMPILE_VERSION: 506.1247
-DIR: code code\modules code\modules\admin code\modules\awaymissions code\modules\clothing code\modules\clothing\gloves code\modules\customitems code\modules\mob code\modules\mob\living code\modules\mob\living\carbon code\modules\mob\living\simple_animal maps 
-FILE: maps\buildstation-1.dmm
-LAST_COMPILE_TIME: 1421191026
+DIR: code code\controllers code\game code\game\gamemodes code\modules code\modules\admin code\modules\awaymissions code\modules\clothing code\modules\clothing\gloves code\modules\customitems code\modules\mob code\modules\mob\living code\modules\mob\living\carbon code\modules\mob\living\simple_animal code\modules\mob\living\simple_animal\hostile code\modules\mob\new_player code\modules\shuttles maps 
+FILE: code\controllers\voting.dm
+LAST_COMPILE_TIME: 1421273640
 AUTO_FILE_DIR: OFF
 */
 // END_INTERNALS
