@@ -1,11 +1,11 @@
 // BEGIN_INTERNALS
 /*
 MAP_ICON_TYPE: 0
-WINDOW: maps\exodus-1.dmm;code\game\objects\items\weapons\circuitboards\machinery\power.dm;maps\buildstation-2.dmm;maps\buildstation-4.dmm;maps\buildstation-3.dmm;maps\buildstation-1.dmm
+WINDOW: maps\buildstation-1.dmm;maps\buildstation-2.dmm;maps\exodus-1.dmm
 LAST_COMPILE_VERSION: 506.1247
-DIR: code\controllers code\game code\game\gamemodes code\game\machinery code\game\machinery\atmoalter code\game\machinery\doors code\game\objects code\game\objects\effects code\game\objects\items code\game\objects\items\devices code\game\objects\items\weapons code\game\objects\items\weapons\circuitboards code\game\objects\items\weapons\circuitboards\machinery maps 
-FILE: maps\buildstation-2.dmm
-LAST_COMPILE_TIME: 1421506402
+DIR: code code\controllers code\game code\game\gamemodes code\game\machinery code\game\machinery\atmoalter code\game\machinery\doors code\game\objects code\game\objects\effects code\game\objects\items code\game\objects\items\devices maps 
+FILE: maps\buildstation-1.dmm
+LAST_COMPILE_TIME: 1421593760
 AUTO_FILE_DIR: OFF
 */
 // END_INTERNALS
