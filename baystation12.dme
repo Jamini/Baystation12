@@ -1550,4 +1550,5 @@
 #include "maps\buildstation-2.dmm"
 #include "maps\buildstation-3.dmm"
 #include "maps\buildstation-4.dmm"
+#include "maps\buildstation-5.dmm"
 // END_INCLUDE
