@@ -1,11 +1,11 @@
 // BEGIN_INTERNALS
 /*
 MAP_ICON_TYPE: 0
-WINDOW: maps\buildstation-1.dmm;maps\buildstation-3.dmm;maps\exodus-5.dmm;maps\buildstation-4.dmm;maps\buildstation-2.dmm;code\TriDimension\controller.dm;maps\buildstation-5.dmm;code\modules\recycling\conveyor2.dm
+WINDOW: maps\buildstation-1.dmm;maps\exodus-5.dmm;code\game\objects\items\devices\uplinks.dm;code\modules\nano\nanomapgen.dm;baystation12.dme;code\global.dm;code\game\json.dm;code\game\gamemodes\heist\heist.dm;code\game\objects\effects\decals\posters\bs12.dm;code\hub.dm
 LAST_COMPILE_VERSION: 506.1247
-DIR: code code\controllers code\game code\game\gamemodes code\game\machinery code\game\machinery\atmoalter code\game\machinery\doors code\game\objects code\game\objects\effects code\game\objects\items code\game\objects\items\devices code\game\turfs code\modules code\modules\recycling code\TriDimension code\unused code\unused\computer2 code\WorkInProgress code\WorkInProgress\computer3 icons icons\misc maps 
-FILE: maps\buildstation-2.dmm
-LAST_COMPILE_TIME: 1422309552
+DIR: code code\controllers code\game code\game\gamemodes code\game\gamemodes\heist code\game\machinery code\game\machinery\atmoalter code\game\machinery\doors code\game\objects code\game\objects\effects code\game\objects\effects\decals code\game\objects\effects\decals\posters code\game\objects\items code\game\objects\items\devices code\game\turfs code\modules code\modules\nano maps 
+FILE: code\hub.dm
+LAST_COMPILE_TIME: 1422315638
 AUTO_FILE_DIR: OFF
 */
 // END_INTERNALS
