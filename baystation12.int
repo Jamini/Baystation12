@@ -1,11 +1,11 @@
 // BEGIN_INTERNALS
 /*
 MAP_ICON_TYPE: 0
-WINDOW: maps\buildstation-1.dmm;maps\exodus-5.dmm;code\game\objects\items\devices\uplinks.dm;code\modules\nano\nanomapgen.dm;baystation12.dme;code\global.dm;code\game\json.dm;code\game\gamemodes\heist\heist.dm;code\game\objects\effects\decals\posters\bs12.dm;code\hub.dm
+WINDOW: maps\buildstation-1.dmm;code\hub.dm;code\global.dm;code\game\objects\effects\decals\posters\bs12.dm;code\modules\clothing\spacesuits\spacesuits.dm;code\modules\customitems\item_defines.dm;code\modules\economy\TradeDestinations.dm;code\world.dm
 LAST_COMPILE_VERSION: 506.1247
-DIR: code code\controllers code\game code\game\gamemodes code\game\gamemodes\heist code\game\machinery code\game\machinery\atmoalter code\game\machinery\doors code\game\objects code\game\objects\effects code\game\objects\effects\decals code\game\objects\effects\decals\posters code\game\objects\items code\game\objects\items\devices code\game\turfs code\modules code\modules\nano maps 
-FILE: code\hub.dm
-LAST_COMPILE_TIME: 1422315638
+DIR: code code\controllers code\game code\game\gamemodes code\game\gamemodes\heist code\game\machinery code\game\machinery\atmoalter code\game\machinery\doors code\game\objects code\game\objects\effects code\game\objects\effects\decals code\game\objects\effects\decals\posters code\modules code\modules\clothing code\modules\clothing\spacesuits code\modules\customitems code\modules\economy maps 
+FILE: code\global.dm
+LAST_COMPILE_TIME: 1422316903
 AUTO_FILE_DIR: OFF
 */
 // END_INTERNALS

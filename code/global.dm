@@ -82,7 +82,7 @@ var/blobevent = 0
 
 var/diary = null
 var/href_logfile = null
-var/station_name = "NSS Exodus"
+var/station_name = "IOP Jackdaw"
 var/game_version = "Baystation12"
 var/changelog_hash = ""
 var/game_year = (text2num(time2text(world.realtime, "YYYY")) + 544)
