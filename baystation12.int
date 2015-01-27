@@ -1,11 +1,11 @@
 // BEGIN_INTERNALS
 /*
 MAP_ICON_TYPE: 0
-WINDOW: maps\buildstation-1.dmm;code\hub.dm;code\global.dm;code\game\objects\effects\decals\posters\bs12.dm;code\modules\clothing\spacesuits\spacesuits.dm;code\modules\customitems\item_defines.dm;code\modules\economy\TradeDestinations.dm;code\world.dm
+WINDOW: maps\buildstation-1.dmm;maps\exodus-1.dmm;maps\buildstation-2.dmm;maps\buildstation-3.dmm
 LAST_COMPILE_VERSION: 506.1247
-DIR: code code\controllers code\game code\game\gamemodes code\game\gamemodes\heist code\game\machinery code\game\machinery\atmoalter code\game\machinery\doors code\game\objects code\game\objects\effects code\game\objects\effects\decals code\game\objects\effects\decals\posters code\modules code\modules\clothing code\modules\clothing\spacesuits code\modules\customitems code\modules\economy maps 
-FILE: code\global.dm
-LAST_COMPILE_TIME: 1422316903
+DIR: code code\controllers code\game code\game\gamemodes code\game\gamemodes\heist code\game\machinery code\game\machinery\atmoalter code\game\machinery\doors code\game\objects code\game\objects\effects code\game\objects\effects\decals maps 
+FILE: maps\buildstation-2.dmm
+LAST_COMPILE_TIME: 1422399861
 AUTO_FILE_DIR: OFF
 */
 // END_INTERNALS
